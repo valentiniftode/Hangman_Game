@@ -51,4 +51,31 @@ words = ('electricity', 'donkey', 'hardware', 'xerox', 'transistor', 'computer',
         'hatred', 'possession', 'criticism', 'zebra', 'harmony', 'personality', 'overcome'
         'addition', 'subtraction', 'cipher', 'encryption', 'compression', 'extension',
         'blessing', 'meeting', 'difficulty', 'weapon', 'against', 'external', 'internal',
-        'legend', 'servant', 'secondary', 'license', 'directory', 'statistics')
+        'legend', 'servant', 'secondary', 'license', 'directory', 'statistics',
+         'attraction', 'sensitivity', 'magnification', 'someone', 'symptom', 'recipe',
+        'service', 'family', 'island', 'planet', 'butterfly', 'diving', 'strength', 'misunderstood'
+        'extreme', 'opportunity', 'illumination', 'cable', 'conflict', 'interference',
+        'receiver', 'transmitter', 'channel', 'company', 'grocery', 'devil', 'angel',
+        'exactly', 'document', 'tutorial', 'sound', 'voice', 'abbreviation', 'abdomen',
+        'abrupt', 'absolute', 'absorption', 'abstract', 'academy', 'acceleration', 'access'
+        'accident', 'account', 'acidification', 'actress', 'adaptation', 'addiction',
+        'adjustment', 'admiration', 'adoption', 'advanced', 'adventure', 'advertisement',
+        'agenda', 'airport', 'algorithm', 'allocation', 'aluminium', 'ambiguity', 'ambitious'
+        'amphibian', 'anaesthesia', 'analogy', 'anchor', 'animation', 'anode', 'cathode',
+        'apparent', 'appendix', 'approval', 'approximation', 'arbitrary', 'architecture',
+        'arithmetic', 'arrangement', 'article', 'ascending', 'ashamed', 'asleep', 'assassinate'
+        'assembly', 'astonishment', 'atmosphere', 'awful', 'bachelor', 'backbone', 'background'
+        'bacteria', 'balance', 'balloon', 'banana', 'barbecue', 'baseball', 'beaker',
+        'beggar', 'behaviour', 'benefit', 'bidirectional', 'biology', 'blackboard', 'blackened'
+        'bladder', 'bleeding', 'blender', 'bonus', 'bottle', 'bracket', 'branch', 'brilliantly'
+        'bubble', 'bucket', 'budget', 'bullet', 'burglar', 'butcher', 'bypass', 'cafeteria'
+        'calculator', 'calibration', 'campaign', 'cancellation', 'candidate', 'candle',
+        'carpenter', 'carriage', 'cartoon', 'cascade', 'casual', 'catalyst', 'category',
+        'cement', 'ceremony', 'chairman', 'checkout', 'chimney', 'chocolate', 'cigarette'
+        'circumference', 'civilization', 'classroom', 'clearance', 'client', 'coconut',
+        'coincidence', 'colleague', 'comfortable', 'competition', 'kangaroo', 'kidnap',
+        'journal', 'jockey', 'iteration', 'isometric', 'isolation', 'invitation', 'interstellar'
+        'institution', 'injection', 'humanity', 'housekeeper', 'history', 'heaven', 'guitar'
+        'greenhouse', 'glory', 'foundation', 'formula', 'fluctuation', 'fiction', 'extraordinary'
+        'emission', 'elasticity', 'earthquake', 'dynamic', 'doctorate', 'divorce', 'derivative'
+        'nightmare', 'virtue', 'description')
