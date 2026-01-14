@@ -42,7 +42,7 @@ words = ('electricity', 'donkey', 'hardware', 'xerox', 'transistor', 'computer',
         'television', 'video', 'audio', 'layer', 'mixture', 'doorbell', 'cousin', 'beard'
         'finance', 'production', 'invisible', 'excitement', 'afternoon', 'office', 'alphabet'
         'illustration', 'valley', 'apartment', 'necessary', 'shortage', 'almost', 'furniture'
-        'blanket', 'suggestion', 'overflow', 'demonstration', 'challenge', 'compact', 'kiten'
+        'blanket', 'suggestion', 'overflow', 'demonstration', 'challenge', 'compact', 'kitten'
         'tower', 'question', 'problem', 'pressure', 'beast', 'encouragement', 'afraid',
         'cavity', 'appearance', 'wonderful', 'matter', 'dimension', 'business', 'doubt',
         'conversation', 'reaction', 'psychology', 'superstition', 'smash', 'horseshoe',
